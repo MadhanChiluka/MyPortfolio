@@ -1,0 +1,99 @@
+{
+  "configVersion": 1,
+  "index": "/madhan-portfolio/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "urls": [
+        "/madhan-portfolio/favicon.ico",
+        "/madhan-portfolio/index.html"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "urls": [
+        "/madhan-portfolio/assets/assert/contactIcon/email.svg",
+        "/madhan-portfolio/assets/assert/contactIcon/facebook.svg",
+        "/madhan-portfolio/assets/assert/contactIcon/github.svg",
+        "/madhan-portfolio/assets/assert/contactIcon/linkedin.png",
+        "/madhan-portfolio/assets/assert/contactIcon/pluralsight-icon.jpg",
+        "/madhan-portfolio/assets/assert/contactIcon/twitter.svg",
+        "/madhan-portfolio/assets/assert/devIcon/angular.svg",
+        "/madhan-portfolio/assets/assert/devIcon/c.svg",
+        "/madhan-portfolio/assets/assert/devIcon/csharp.svg",
+        "/madhan-portfolio/assets/assert/devIcon/css.svg",
+        "/madhan-portfolio/assets/assert/devIcon/dotnet.svg",
+        "/madhan-portfolio/assets/assert/devIcon/html.svg",
+        "/madhan-portfolio/assets/assert/devIcon/javascript.svg",
+        "/madhan-portfolio/assets/assert/devIcon/typescript.svg",
+        "/madhan-portfolio/assets/icons/email.svg",
+        "/madhan-portfolio/assets/icons/facebook.svg",
+        "/madhan-portfolio/assets/icons/github.svg",
+        "/madhan-portfolio/assets/icons/hackerrank.svg",
+        "/madhan-portfolio/assets/icons/instagram.svg",
+        "/madhan-portfolio/assets/icons/linkedin.svg",
+        "/madhan-portfolio/assets/icons/pluralsight.svg",
+        "/madhan-portfolio/assets/icons/stackoverflow.svg",
+        "/madhan-portfolio/assets/icons/twitter.svg",
+        "/madhan-portfolio/assets/icons/vscode.svg",
+        "/madhan-portfolio/assets/img/Madhan-Profile-Pic.jpg"
+      ],
+      "patterns": [
+        "https:\\/\\/fonts\\.googleapis\\.com\\/css\\?family=Cormorant\\+Garamond|Open\\+Sans:300i,300|Lato"
+      ]
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/madhan-portfolio/assets/assert/contactIcon/email.svg": "af0aeb855d2af329995c625d079f2a8fae2ca6f7",
+    "/madhan-portfolio/assets/assert/contactIcon/facebook.svg": "52cb36f7f0356099e1fce52e2d7a2894574e0ff4",
+    "/madhan-portfolio/assets/assert/contactIcon/github.svg": "b01fe2b3e7767104261abce0655621bd1ab5fe49",
+    "/madhan-portfolio/assets/assert/contactIcon/linkedin.png": "b583c366bc69a3cd759d6b269866f2e246bc1b02",
+    "/madhan-portfolio/assets/assert/contactIcon/pluralsight-icon.jpg": "32cb39daa2219a04b9b4bd5c7498d130c7f3e9df",
+    "/madhan-portfolio/assets/assert/contactIcon/twitter.svg": "70a0d0591e174965ed959c8a4bdff80694f3134c",
+    "/madhan-portfolio/assets/assert/devIcon/angular.svg": "3b5be8774fc85a82957e394b87fdbe91500ece98",
+    "/madhan-portfolio/assets/assert/devIcon/c.svg": "754ea3547835fe188f4b91c7ab5ecd3b531b0295",
+    "/madhan-portfolio/assets/assert/devIcon/csharp.svg": "757268df04426428f3eacba6a53f6a8c4b70379a",
+    "/madhan-portfolio/assets/assert/devIcon/css.svg": "cd3065aa8555501b91c007c4e263c305a3d225f1",
+    "/madhan-portfolio/assets/assert/devIcon/dotnet.svg": "4c2b0e07a2c525c69777f11f7a350cead9aa37b7",
+    "/madhan-portfolio/assets/assert/devIcon/html.svg": "3bfa0311c5a6a7e911b16d3ecd00b694882cba33",
+    "/madhan-portfolio/assets/assert/devIcon/javascript.svg": "a1d14fa0dc2fdb210e664b35c454aaade6162a7c",
+    "/madhan-portfolio/assets/assert/devIcon/typescript.svg": "45f4dcc3929ac3930a3d90d375ea174d43a1e69b",
+    "/madhan-portfolio/assets/icons/email.svg": "24d87eb56057e2d91ed596b24429a495b267e56b",
+    "/madhan-portfolio/assets/icons/facebook.svg": "b86b39c04ce1780925ba08497c3e6fd32295632a",
+    "/madhan-portfolio/assets/icons/github.svg": "cc8b1122d828c2a5e64a2110ca1e8f12e7af507e",
+    "/madhan-portfolio/assets/icons/hackerrank.svg": "23c2aecf9ca2cdd8ffd4499626fbd4998714b1d3",
+    "/madhan-portfolio/assets/icons/instagram.svg": "123f011475b4a0e44219dda94f8226527c45cfb5",
+    "/madhan-portfolio/assets/icons/linkedin.svg": "0de02c84dfb812531a80cce0decd4f3f8e23479e",
+    "/madhan-portfolio/assets/icons/pluralsight.svg": "6674f0cdb731e168b01270bf5bf2c6dc593fccff",
+    "/madhan-portfolio/assets/icons/stackoverflow.svg": "a9763bee0fc7ab49a851b1ef8295f26852f3123b",
+    "/madhan-portfolio/assets/icons/twitter.svg": "97d8a5ac6b93b24c6f8f5532f43f124cc3db4b1e",
+    "/madhan-portfolio/assets/icons/vscode.svg": "bfbf8a3d8dae9e2b5c9d917e0d37b92f2fa1cb90",
+    "/madhan-portfolio/assets/img/Madhan-Profile-Pic.jpg": "4c0eaf5f549999572be799a2f4bcb118961599fe",
+    "/madhan-portfolio/favicon.ico": "fd61ac4e27163ada907c1090ef8a82e78437289b",
+    "/madhan-portfolio/index.html": "29302ab0bb577e179d326dc1493663842888d29f"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ]
+}
